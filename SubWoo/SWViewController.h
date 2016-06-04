@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface SWViewController : UIViewController
-
+@property (nonatomic, strong) NSDate *timestamp;
+@property (nonatomic, copy) NSString *uid;
 @end

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "96BA8232110A6F3F75335A144C3CDA3056E6E66A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3FF199B9BF18A35CF41FAC13780A2D8E93C05C7D" : 0,
+    "96BA8232110A6F3F75335A144C3CDA3056E6E66A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "18C6CE21-FE70-4E62-B82C-66536FF4F87D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3FF199B9BF18A35CF41FAC13780A2D8E93C05C7D" : "SubWoo\/Dependency\/WiredImageSize\/",
+    "96BA8232110A6F3F75335A144C3CDA3056E6E66A" : "SubWoo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SubWoo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SubWoo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:highsun16\/WiredImageSize.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FF199B9BF18A35CF41FAC13780A2D8E93C05C7D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:highsun16\/SubWoo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96BA8232110A6F3F75335A144C3CDA3056E6E66A"
+    }
+  ]
+}
